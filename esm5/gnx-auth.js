@@ -5,7 +5,7 @@
 /**
  * Generated bundle index. Do not edit.
  */
-export { GnxAuthService, AllowNonLoggedUserGuard, RequireLoggedUserGuard, GnxAuthModule } from './public-api';
+export { GnxAuthModule, GnxAuthService, AllowNonLoggedUserGuard, RequireLoggedUserGuard } from './public-api';
 export { GnxAuthComponent as ɵa } from './lib/components/gnx-auth.component';
 export { GnxApplyTokenInterceptor as ɵc } from './lib/interceptors/gnx-apply-token-interceptor';
 export { GnxRefreshTokenInterceptor as ɵd } from './lib/interceptors/gnx-refresh-token-interceptor';
