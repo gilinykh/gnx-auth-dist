@@ -1,0 +1,25 @@
+{
+  "name": "gnx-auth",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0",
+    "rxjs": "^6.5.2",
+    "ngx-cookie-service": "^2.2.0"
+  },
+  "dependencies": {
+    "@auth0/angular-jwt": "^2.1.0",
+    "tslib": "^1.9.0"
+  },
+  "devDependencies": {},
+  "main": "bundles/gnx-auth.umd.js",
+  "module": "fesm5/gnx-auth.js",
+  "es2015": "fesm2015/gnx-auth.js",
+  "esm5": "esm5/gnx-auth.js",
+  "esm2015": "esm2015/gnx-auth.js",
+  "fesm5": "fesm5/gnx-auth.js",
+  "fesm2015": "fesm2015/gnx-auth.js",
+  "typings": "gnx-auth.d.ts",
+  "metadata": "gnx-auth.metadata.json",
+  "sideEffects": false
+}
